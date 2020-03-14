@@ -1,13 +1,13 @@
 {
   "name": "eoocy-module-lh",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies":{
-    "eoocy-module-lhcore":"^1.0.0"
+  "dependencies": {
+    "eoocy-module-lhcore": "^0.0.1"
   },
   "keywords": [],
   "author": "",
